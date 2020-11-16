@@ -1,0 +1,4 @@
+{
+    "name": "My App",
+    "connectionString": "mongodb://localhost/playground"
+}
